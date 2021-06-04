@@ -5,6 +5,8 @@
 
 [Youtube video Link](https://www.youtube.com/watch?v=rm_g3GeNGMQ)
 
+## In short 
+<img src="https://github.com/Boltuzamaki/deep-unet-for-satellite-image-segmentation/blob/master/visualization/satelliteseg.gif" width="600" height="400" />
 
 ### Tkinter Application screenshot
 
