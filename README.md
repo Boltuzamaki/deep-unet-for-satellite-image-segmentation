@@ -10,7 +10,7 @@
 
 ### Tkinter Application screenshot
 
-<img src="https://github.com/Boltuzamaki/IP-Academic-Project-on-Segmentaion-of-Sattellite-image-using-NDVI-on-Tkinter/blob/master/visualization/Screenshot%20(6625).png" width="600" height="400" />
+<img src="https://github.com/Boltuzamaki/deep-unet-for-satellite-image-segmentation/blob/master/visualization/Screenshot%20(6625).png" width="600" height="400" />
 
-<img src="https://github.com/Boltuzamaki/IP-Academic-Project-on-Segmentaion-of-Sattellite-image-using-NDVI-on-Tkinter/blob/master/visualization/Screenshot%20(6626).png" width="600" height="400" />
+<img src="https://github.com/Boltuzamaki/deep-unet-for-satellite-image-segmentation/blob/master/visualization/Screenshot%20(6626).png" width="600" height="400" />
 
